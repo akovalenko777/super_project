@@ -1,3 +1,3 @@
 # Super project description
 
-Click [here]() to live preview.
+Click [here](https://akovalenko777.github.io/super_project/) to live preview.
